@@ -50,11 +50,6 @@ Building scientific web applications that integrate:
 4. [ ] Bioactivity Predictor (ML)
 5. [ ] GNN Toxicity Classifier
 
-## Learning Resources
-
-- **Books:** Gasteiger (Chemoinformatics), Hill (Python for Chemists), Bruice (Organic Chemistry)
-- **Courses:** Kaggle Learn, Fast.ai, Coursera Drug Discovery
-
 ## Progress
  
 ✅ **Projects Completed:** 0/5
